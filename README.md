@@ -5,8 +5,10 @@ By Gediminas Lelešius, g@lelesius.eu
 This repository contains implementations of the lookup server and the verifier,
 as well as some tools and scripts used for testing.
 
-**The code isn't ready for production use adn provided without warranty of any kind.**
+**The code isn't ready for production use and provided without warranty of any kind.**
 See [License](LICENSE) for more details.
+
+If you'd like to learn more and continue the work, feel free to [contact me](https://lelesius.eu/).
 
 ## [Dissertation](dissertation.pdf)
 Differs from the dissertation submitted for the Degree, see Notice in the cover.
