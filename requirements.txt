@@ -1,0 +1,6 @@
+aiohttp~=3.8.1
+aiosqlite~=0.17.0
+pycryptodome==3.14.1
+asyncio~=3.4.3
+defusedxml~=0.7.1
+certifi~=2021.10.8
